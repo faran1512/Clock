@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(241, 96, 89);
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+}
+
+.main-heading { 
+    font-size: 3rem;
+}
+
+.sub-head {
+    font-size: 1.5rem;
+}
+
+#lolcatImage {
+    width: 25%;
+    height: 25%;
+}
+
+#timeEvent {
+    margin-top: -3rem;
+    margin-bottom: 3rem;
+}
+
+label {
+    margin-right: 1rem;
+    text-align: left;
+}
+
+select {
+    width: 10%;
+    margin: 0.7rem 0 0 0.7rem;
+}
+#btn {
+    padding: 1rem;
+    border: none;
+    margin-top: 1rem;
+    color: white;
+}
